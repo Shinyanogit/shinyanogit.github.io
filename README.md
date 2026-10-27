@@ -6,7 +6,7 @@ Built assets for Shinya Yamaguchi's public portfolio at `https://shinyanogit.git
 
 - Editable source: `Shinyanogit/Vocabry`, under `website/`
 - Content and deployment rules: `Vocabry/docs/17_PORTFOLIO_SITE.md`
-- Source revision for this build: `18ec00b82d22584d4aa9812f44a5b11626021d71`
+- Source revision for this build: `5e36aee700bc906a628e107a02fe04cf967d2975`
 
 This repository intentionally keeps the static production output at the root because GitHub Pages publishes `main:/` directly.
 
